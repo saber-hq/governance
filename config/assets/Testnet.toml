@@ -1,0 +1,7 @@
+[testnet.6kSNdspA9nq2ovkejCEWHEUuABPM5CbPjJQxWBoEmcCf]
+market = "USD"
+coingeckoId = "usd-coin"
+
+[testnet.DtUm3nb3tGxycrqUWUGniDXgu8Hs639Yn62J8iNaRQLU]
+market = "USD"
+coingeckoId = "tether"
