@@ -4,7 +4,6 @@
   "type": "object",
   "default": {},
   "title": "Root Schema",
-  "required": ["nirvana", "uxd", "calcifer"],
   "patternProperties": {
     "": {
       "type": "object",
