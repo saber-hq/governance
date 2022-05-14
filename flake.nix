@@ -15,6 +15,7 @@
             coreutils
             bash
             yj
+            python39Packages.jsonschema
           ];
         };
       }
