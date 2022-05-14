@@ -406,3 +406,18 @@ swapAccount = "SERgf3DMJpQxUifu7VoFKmfne73d2fDJxSrxUMrcNJB"
 
 [mainnet.calusd]
 swapAccount = "BerKDkt6v49dT1bHRedgnpsJS263C1DSJtEGvY9Mg35V"
+
+[mainnet.nirv_usdc]
+swapAccount = "Cob4usZcpHEY7Qt4ZCwj6WVg9S44zvzYV2v9qYF65dTf"
+
+[mainnet.nirv_usdt]
+swapAccount = "KEnkcdADoLR5jS2CLLLesy8TtFsyWL37BhXNfDMzWzP"
+
+[mainnet.usdh_ust]
+swapAccount = "MAR3XM1n9xWPQ3HJjAcC85o8DopWFP5p2WxGTaZ3fPB"
+
+[mainnet.nirv_ust]
+swapAccount = "Sid7E679i9ABqptiAVhkmQ27YHN8vaYT4fppPwmxFsJ"
+
+[mainnet.nirv_usdh]
+swapAccount = "SUiuyGR7SFq3xeRVJonq84fjjeFwRSsFekcevJ53tzy"
