@@ -9,8 +9,9 @@
         pkgs = import nixpkgs { inherit system; };
       in
       {
-        defaultPackage = with pkgs; mkShell {
-          buildInputs = [
+        defaultPackage = with pkgs; buildEnv {
+          name = "saber-governance";
+          paths = [
             coreutils
             bash
             yj
