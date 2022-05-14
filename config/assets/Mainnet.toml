@@ -1,0 +1,500 @@
+[mainnet.Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB]
+market = "USD"
+coingeckoId = "tether"
+
+[mainnet.EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v]
+market = "USD"
+coingeckoId = "usd-coin"
+
+[mainnet.Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS]
+market = "USD"
+source = "parrot"
+coingeckoId = "parrot-usd"
+
+[mainnet.9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E]
+market = "BTC"
+source = "sollet"
+coingeckoId = "bitcoin"
+
+[mainnet.CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5]
+market = "BTC"
+source = "renbridge"
+coingeckoId = "renbtc"
+
+[mainnet.DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun]
+market = "BTC"
+source = "parrot"
+coingeckoId = "ptokens-btc"
+
+[mainnet.CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT]
+market = "USD"
+source = "cashio"
+coingeckoId = "cashio-dollar"
+
+[mainnet.GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh]
+market = "SOL"
+source = "monkedao"
+coingeckoId = "solana"
+
+[mainnet.So11111111111111111111111111111111111111112]
+market = "SOL"
+coingeckoId = "solana"
+
+[mainnet.9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj]
+market = "TRY"
+source = "wormhole-v2"
+coingeckoId = "bilira"
+
+[mainnet.A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf]
+market = "TRY"
+source = "biLira"
+coingeckoId = "bilira"
+
+[mainnet.7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT]
+market = "USD"
+source = "UXD"
+coingeckoId = "uxd-stablecoin"
+
+[mainnet.USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX]
+market = "USD"
+source = "hubble"
+coingeckoId = "usdh"
+
+[mainnet.JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T]
+market = "USD"
+source = "soluna"
+coingeckoId = "terrausd"
+
+[mainnet.9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i]
+market = "USD"
+source = "wormhole-v2"
+coingeckoId = "terrausd"
+
+[mainnet.83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y]
+market = "USD"
+source = "synthetify"
+coingeckoId = "usd-coin"
+
+[mainnet.BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov]
+market = "SOL"
+source = "synthetify"
+coingeckoId = "solana"
+
+[mainnet.Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9]
+market = "FTT"
+source = "synthetify"
+coingeckoId = "ftx-token"
+
+[mainnet.EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv]
+market = "FTT"
+source = "wormhole-v2"
+coingeckoId = "ftx-token"
+
+[mainnet.8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK]
+market = "ETH"
+source = "synthetify"
+coingeckoId = "ethereum"
+
+[mainnet.7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs]
+market = "ETH"
+source = "wormhole-v2"
+coingeckoId = "ethereum"
+
+[mainnet.HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D]
+market = "BTC"
+source = "synthetify"
+coingeckoId = "bitcoin"
+
+[mainnet.6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2]
+market = "LUNA"
+source = "synthetify"
+coingeckoId = "terra-luna"
+
+[mainnet.F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W]
+market = "LUNA"
+source = "wormhole-v2"
+coingeckoId = "terra-luna"
+
+[mainnet.EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e]
+market = "USD"
+source = "allbridge"
+coingeckoId = "celo-dollar"
+
+[mainnet.FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp]
+market = "USD"
+source = "wormhole-v2"
+coingeckoId = "frax"
+
+[mainnet.A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ]
+market = "USD"
+source = "allbridge"
+coingeckoId = "terrausd"
+
+[mainnet.CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm]
+market = "USD"
+source = "wormhole-v1"
+coingeckoId = "terrausd"
+
+[mainnet.FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1]
+market = "USD"
+source = "wormhole-v1"
+coingeckoId = "dai"
+
+[mainnet.AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX]
+market = "USD"
+source = "wormhole-v1"
+coingeckoId = "binance-usd"
+
+[mainnet.2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV]
+market = "LUNA"
+source = "wormhole-v1"
+coingeckoId = "wrapped-terra"
+
+[mainnet.8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE]
+market = "LUNA"
+source = "renbridge"
+coingeckoId = "terra-luna"
+
+[mainnet.8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU]
+market = "USD"
+source = "wormhole-v1"
+coingeckoId = "frax"
+
+[mainnet.8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref]
+market = "BTC"
+source = "wormhole-v1"
+coingeckoId = "huobi-btc"
+
+[mainnet.BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX]
+market = "USD"
+source = "wormhole-v1"
+coingeckoId = "husd"
+
+[mainnet.2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak]
+market = "USD"
+source = "wormhole-v1"
+coingeckoId = "usdk"
+
+[mainnet.GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi]
+market = "FTT"
+source = "wormhole-v1"
+coingeckoId = "ftx-token"
+
+[mainnet.AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3]
+market = "FTT"
+source = "sollet"
+coingeckoId = "ftx-token"
+
+[mainnet.2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP]
+market = "SRM"
+source = "wormhole-v1"
+coingeckoId = "serum"
+
+[mainnet.SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt]
+market = "SRM"
+coingeckoId = "serum"
+
+[mainnet.66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz]
+market = "BTC"
+source = "wormhole-v1"
+coingeckoId = "bitcoin"
+
+[mainnet.33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX]
+market = "USD"
+source = "wormhole-v2"
+coingeckoId = "binance-usd"
+
+[mainnet.A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM]
+market = "USD"
+source = "wormhole-v2"
+coingeckoId = "usd-coin"
+
+[mainnet.Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1]
+market = "USD"
+source = "wormhole-v2"
+coingeckoId = "tether"
+
+[mainnet.E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M]
+market = "USD"
+source = "wormhole-v2"
+coingeckoId = "usd-coin"
+
+[mainnet.5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1]
+market = "USD"
+source = "wormhole-v2"
+coingeckoId = "tether"
+
+[mainnet.5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2]
+market = "USD"
+source = "wormhole-v2"
+coingeckoId = "binance-usd"
+
+[mainnet.FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA]
+market = "USD"
+source = "wormhole-v2"
+coingeckoId = "usd-coin"
+
+[mainnet.8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv]
+market = "USD"
+source = "wormhole-v2"
+coingeckoId = "tether"
+
+[mainnet.43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F]
+market = "USD"
+source = "wormhole-v2"
+coingeckoId = "usdk"
+
+[mainnet.7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8]
+market = "BTC"
+source = "wormhole-v2"
+coingeckoId = "huobi-btc"
+
+[mainnet.7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw]
+market = "USD"
+source = "wormhole-v2"
+coingeckoId = "husd"
+
+[mainnet.Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi]
+market = "BTC"
+source = "wormhole-v2"
+coingeckoId = "bitcoin"
+
+[mainnet.EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o]
+market = "USD"
+source = "wormhole-v2"
+coingeckoId = "dai"
+
+[mainnet.2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk]
+market = "ETH"
+source = "sollet"
+coingeckoId = "ethereum"
+
+[mainnet.BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf]
+market = "FTT"
+source = "allbridge"
+coingeckoId = "ftx-token"
+
+[mainnet.xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG]
+market = "SRM"
+source = "wormhole-v2"
+coingeckoId = "serum"
+
+[mainnet.DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui]
+market = "USD"
+source = "allbridge"
+coingeckoId = "usd-coin"
+
+[mainnet.DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ]
+market = "USD"
+source = "allbridge"
+coingeckoId = "tether"
+
+[mainnet.eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca]
+market = "USD"
+source = "allbridge"
+coingeckoId = "usd-coin"
+
+[mainnet.6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF]
+market = "USD"
+source = "allbridge"
+coingeckoId = "binance-usd"
+
+[mainnet.AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE]
+market = "ETH"
+source = "allbridge"
+coingeckoId = "weth"
+
+[mainnet.DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9]
+market = "USD"
+source = "allbridge"
+coingeckoId = "usd-coin"
+
+[mainnet.Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn]
+market = "USD"
+source = "allbridge"
+coingeckoId = "tether"
+
+[mainnet.9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs]
+market = "USD"
+source = "allbridge"
+coingeckoId = "multi-collateral-dai"
+
+[mainnet.8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr]
+market = "USD"
+source = "allbridge"
+coingeckoId = "usd-coin"
+
+[mainnet.FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj]
+market = "USD"
+source = "allbridge"
+coingeckoId = "tether"
+
+[mainnet.EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi]
+market = "USD"
+source = "allbridge"
+coingeckoId = "multi-collateral-dai"
+
+[mainnet.Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw]
+market = "BTC"
+source = "allbridge"
+coingeckoId = "wrapped-bitcoin"
+
+[mainnet.GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj]
+market = "USD"
+source = "allbridge"
+coingeckoId = "tether"
+
+[mainnet.Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH]
+market = "BTC"
+source = "allbridge"
+coingeckoId = "wrapped-bitcoin"
+
+[mainnet.8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69]
+market = "USD"
+source = "allbridge"
+coingeckoId = "usd-coin"
+
+[mainnet.E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL]
+market = "USD"
+source = "allbridge"
+coingeckoId = "tether"
+
+[mainnet.3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu]
+market = "BTC"
+source = "allbridge"
+coingeckoId = "wrapped-bitcoin"
+
+[mainnet.EyrnrbE5ujd3HQG5PZd9MbECN9yaQrqc8pRwGtaLoyC]
+market = "ETH"
+source = "allbridge"
+coingeckoId = "weth"
+
+[mainnet.FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts]
+market = "BTC"
+source = "allbridge"
+coingeckoId = "wrapped-bitcoin"
+
+[mainnet.BiryxNvVTABRs3pEE4fvVuu4d17aAYEsNmcPnJ8E8WeT]
+market = "ETH"
+source = "allbridge"
+coingeckoId = "weth"
+
+[mainnet.Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u]
+market = "USD"
+source = "allbridge"
+coingeckoId = "usd-coin"
+
+[mainnet.HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver]
+market = "USD"
+source = "allbridge"
+coingeckoId = "dai"
+
+[mainnet.9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7]
+market = "USD"
+source = "allbridge"
+coingeckoId = "mimatic"
+
+[mainnet.BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2]
+market = "USD"
+source = "allbridge"
+coingeckoId = "fei-usd"
+
+[mainnet.2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj]
+market = "USD"
+source = "allbridge"
+coingeckoId = "magic-internet-money"
+
+[mainnet.993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk]
+market = "USD"
+source = "solend"
+coingeckoId = "usd-coin"
+
+[mainnet.BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8]
+market = "USD"
+source = "solend"
+coingeckoId = "tether"
+
+[mainnet.5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV]
+market = "SOL"
+source = "solend"
+coingeckoId = "solana"
+
+[mainnet.3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h]
+market = "SOL"
+source = "solend"
+coingeckoId = "solana"
+
+[mainnet.7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn]
+market = "SOL"
+source = "jpool"
+coingeckoId = "solana"
+
+[mainnet.mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So]
+market = "SOL"
+source = "marinade"
+coingeckoId = "msol"
+
+[mainnet.5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm]
+market = "SOL"
+source = "socean"
+coingeckoId = "socean-staked-sol"
+
+[mainnet.7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj]
+market = "SOL"
+source = "lido"
+coingeckoId = "solana"
+
+[mainnet.3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z]
+market = "LUNA"
+source = "allbridge"
+coingeckoId = "terra-luna"
+
+[mainnet.7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv]
+market = "EUR"
+source = "allbridge"
+coingeckoId = "celo-euro"
+
+[mainnet.CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1]
+market = "EUR"
+source = "wormhole-v2"
+coingeckoId = "ageur"
+
+[mainnet.3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ]
+market = "USD"
+source = "port"
+coingeckoId = "tether"
+
+[mainnet.FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58]
+market = "USD"
+source = "port"
+coingeckoId = "usd-coin"
+
+[mainnet.ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond]
+market = "SOL"
+source = "aSOL"
+coingeckoId = "solana"
+
+[mainnet.9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX]
+market = "SOL"
+source = "parrot"
+coingeckoId = "solana"
+
+[mainnet.BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3]
+market = "SOL"
+source = "parrot"
+coingeckoId = "solana"
+
+[mainnet.Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM]
+market = "SOL"
+source = "everstake"
+coingeckoId = "solana"
+
+[mainnet.CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk]
+market = "USD"
+source = "calcifer"
+coingeckoId = "usd-coin"
+
+[mainnet.NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa]
+market = "USD"
+source = "nirvana"
+coingeckoId = "nirvana-nirv"

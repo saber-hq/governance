@@ -1,0 +1,21 @@
+name: Builds and deploys the registry.
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  deploy-dist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: cachix/install-nix-action@v17
+      - run: nix shell .# --command bash ./build.sh
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.REGISTRY_PUBLISH_KEY }}
+          external_repository: saber-hq/registry
+          publish_branch: master
+          publish_dir: ./out/
+          commit_message: ${{ github.event.head_commit.message }}

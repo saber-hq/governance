@@ -1,0 +1,28 @@
+[devnet.2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8]
+market = "USD"
+coingeckoId = "usd-coin"
+
+[devnet.EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS]
+market = "USD"
+coingeckoId = "tether"
+
+[devnet.4QgnWUPQmfGB5dTDCcc4ZFeZDK7xNVhCUFoNmmYFwAme]
+market = "USD"
+coingeckoId = "usd-coin"
+
+[devnet.4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL]
+market = "USD"
+coingeckoId = "parrot-usd"
+
+[devnet.Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ]
+market = "BTC"
+coingeckoId = "renbtc"
+
+[devnet.Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM]
+market = "BTC"
+coingeckoId = "wrapped-bitcoin"
+
+[devnet.CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT]
+market = "USD"
+source = "cashio"
+coingeckoId = "usd-coin"
