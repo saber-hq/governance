@@ -21,10 +21,40 @@ The "mint" address of the coin to list, e.g.
 
 How does one mint this asset to stake into Saber? Be as specific as possible.
 
+## Project Information
+
+### Who are the auditors of your protocol?
+
+> <enter here>
+
+### What is the name of your protocol?
+
+> <enter here>
+
+### What is your project's website?
+
+> <enter here>
+
+### What are the risks involved in listing this asset?
+
+> <enter here>
+
+### Please share a logo/icon of your project.
+
+> <enter here>
+
+## Asset Information
+
+### Is there a CoinGecko link? If so, please provide it below.
+
+> <enter here>
+
+### What pairs would you see this being traded against? E.g. if this is a dollar stablecoin, enter "USDC".
+
+> <enter here>
+
 ## Checklist
 
 Before submitting this pull request, please ensure you have done the following:
 
 - [ ] The token has been successfully merged to the official [Solana Labs token list](https://github.com/solana-labs/token-list).
-- [ ] `Assets.toml` has been modified with the new asset.
-- [ ] If the asset comes from a new protocol, `Sources.toml` has been modified to add the new asset source.
