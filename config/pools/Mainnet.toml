@@ -1,0 +1,408 @@
+[mainnet.usdc_usdt]
+swapAccount = "YAkoNb6HKmSxQN9L8hiBE5tPJRsniSSMzND1boHmZxe"
+swapIcons = true
+
+[mainnet.usdc_pai]
+swapAccount = "B2izdXFYb2sNwbWWHmh75T4aQFtfXsUxem9u2p61HGzf"
+
+[mainnet.btc]
+swapAccount = "BkwbeSfcX1h4thMDd7obGkHrPevf3QwgzJ4pCEqG18Lu"
+swapIcons = true
+
+[mainnet.pbtc]
+swapAccount = "AyiATPCAx5HZstcZ1jdH9rENwFb3yd9zEhkgspvDrCs4"
+swapIcons = true
+
+[mainnet.cash]
+swapAccount = "CASNrsSdASV1eyEca4mnEwhMqjANkyRLnF5kEGoorBX2"
+
+[mainnet.monkedao]
+swapAccount = "daob129AwBGn9Y5r91uLoWZeYiGzbPmksauMhFZKTze"
+
+[mainnet.bilira]
+swapAccount = "3nesbuhAwCMGtsyypYtg4oRPwJ3FmHnytC5bqskhPh1x"
+tags = ["wormhole-v2"]
+
+[mainnet.uxd]
+swapAccount = "KEN5P7p3asnb23Sw6yAmJRGvijfAzso3RqfyLAQhznt"
+
+[mainnet.usdh]
+swapAccount = "MARpDPs5A7XiyCWPNH8GsMWPLxmwNn9SBmKvPa9LzgA"
+
+[mainnet.solust]
+swapAccount = "KysFMBBoavfov2tLpvefWW6tPFt6rAeZWDJVy1mMQae"
+
+[mainnet.xusd]
+swapAccount = "NorjjEePhxfwLF4vZjUHCrVVKLzQjEEGQFd3wgjEJmh"
+tags = ["synthetify"]
+
+[mainnet.xsol]
+swapAccount = "BERTH9caDT1mFBvne1h5hHdE58vxuAVuvh5rs43AYn9r"
+tags = ["synthetify"]
+
+[mainnet.xftt]
+swapAccount = "Bodz3SK3pzzskFdjwG5TXoavTzNLJbMV8VDQHvxkhTa1"
+tags = ["synthetify"]
+
+[mainnet.xeth]
+swapAccount = "ionytDfEj1mXodptgrsKEZro7DGsfpzANUfarJdm6Qb"
+tags = ["synthetify"]
+
+[mainnet.xbtc]
+swapAccount = "NorBXypYWTkV5PMs6Q9JsvNkmRwe7H9Zr1Kz2TcJH2Y"
+tags = ["synthetify"]
+
+[mainnet.xluna]
+swapAccount = "KWAnW2f2FYWLjfjoeu61BPfjHfkcNTKG4x8ogaLa5NL"
+tags = ["synthetify"]
+
+[mainnet.acusd_cash]
+swapAccount = "CSPcADsTSETVpGAYFnb1oEc9z9qPjC987powM59bnSF3"
+tags = ["cashio"]
+
+[mainnet.pai_cash]
+swapAccount = "CSPC23oTm5WqmJpAR8Eo6KyQhwq8YipgHSuDcABgoSv"
+tags = ["cashio"]
+
+[mainnet.ust_cash]
+swapAccount = "CSP7xvUx4mHXFHB7nGKRiGLkvkEcvo3HTTgVWJEwFTnQ"
+tags = ["cashio"]
+
+[mainnet.frax_cash]
+swapAccount = "ZUCKP2rbfTojHnuKUkzCozccxVUWR5DBTL9QbPf9YLv"
+tags = ["cashio"]
+
+[mainnet.atust_cash]
+swapAccount = "ZoNxMdmUi6NAhBUGsBsZ751oDgqK863KXTNnQQ1HCkD"
+tags = ["cashio"]
+
+[mainnet.usdh_cash]
+swapAccount = "MAR1pJUGGmgS2WhSinrb4ta1F9w5mLhBXpoCX4jrSw7"
+tags = ["cashio"]
+
+[mainnet.uxd_cash]
+swapAccount = "D1RyGbGF7iFupgaknywa5ThmdkdMwCJR7cQXfzTnNpFv"
+tags = ["cashio"]
+
+[mainnet.ust]
+swapAccount = "7oAd7xG4m3oC2qeWB1szghTebAZyyGPAFDJ4wwwbRSNi"
+swapIcons = true
+newPoolID = "wust"
+tags = ["wormhole-v1"]
+
+[mainnet.dai]
+swapAccount = "4xeRVccqvUgiV6VeF6NkWqkAYeewcJPRWFVginvJw1n4"
+newPoolID = "wdai"
+tags = ["wormhole-v1"]
+
+[mainnet.busd]
+swapAccount = "BkMBnJpvHKtWhUvrgRrLesXfi9RUV3ELgdBaJcdH7hcY"
+newPoolID = "webusd"
+tags = ["wormhole-v1"]
+
+[mainnet.luna]
+swapAccount = "4EFeyTtMZZnAv3ZPs2jvps1T1J1JykbpyizrWjBQcA1S"
+newPoolID = "wluna"
+tags = ["wormhole-v1"]
+
+[mainnet.frax]
+swapAccount = "ZUCKWFa4LTL833dPhhpeeRWZcaAEoMeYJPi2iKn4F8N"
+newPoolID = "wfrax"
+tags = ["wormhole-v1"]
+
+[mainnet.hbtc]
+swapAccount = "DJUn4vhv4YQHhDRfxmLtu7f8sGnZpgnKG5GHzA7wFPB9"
+tags = ["wormhole-v1"]
+
+[mainnet.husd]
+swapAccount = "MNkYtBe2HtgL15osfaMmyqNW3vo4J399FXXCS4a39Wf"
+newPoolID = "whusd"
+tags = ["wormhole-v1"]
+
+[mainnet.usdk]
+swapAccount = "okgoAkj7GvBT1Q54j6Qvm6AZPritriGTjcEpkPhdWqf"
+newPoolID = "wusdk"
+tags = ["wormhole-v1"]
+
+[mainnet.ftt]
+swapAccount = "SBFjafzbDXgDRsA5SUypY8FXjJ9sBdb4JbuQq2PHQDG"
+newPoolID = "wftt"
+tags = ["wormhole-v1"]
+
+[mainnet.srm]
+swapAccount = "TSMFNX73aQNb3yqszDKgyR8AVoigfbaD4cfLjjCYXZf"
+tags = ["wormhole-v1"]
+
+[mainnet.ibbtc]
+swapAccount = "SAVEEos8BnE9mgk8fw6yV22Ffk1eeHEJq95ewErUhbT"
+newPoolID = "ibbtc_ren"
+tags = ["wormhole-v1"]
+
+[mainnet.ibbtc_ren]
+swapAccount = "BDGnasCnLUuqHVpHipGuevAsnHuMsBLya1RZSo4ZzMUF"
+newPoolID = "ibbtc_ren"
+tags = ["wormhole-v1"]
+
+[mainnet.webusd]
+swapAccount = "CZgvH45CRmoaNJ7395Ao5CQZXkGznvqU7cErD6n7FaRg"
+tags = ["wormhole-v2"]
+
+[mainnet.weusdc]
+swapAccount = "GokA1R67GqSavkd15zR62QD68Tuc5AEfvjssntVDEbM8"
+tags = ["wormhole-v2"]
+
+[mainnet.weusdt]
+swapAccount = "vEnkoSUkpnbRrPgBz9DfcVxNz67zjwMYBZraAvDDNSf"
+tags = ["wormhole-v2"]
+
+[mainnet.wpusdc]
+swapAccount = "MATgk4zXLXtYkwBH678J1xZbRDZ45LicNzkRBHkxTuY"
+tags = ["wormhole-v2"]
+
+[mainnet.wpusdt]
+swapAccount = "MATSnbbiTCv7Dc3trJrkrqjx7ckKdr6fwPoVwv9q3sD"
+tags = ["wormhole-v2"]
+
+[mainnet.wbusd]
+swapAccount = "BUSDgu5JdqP1rndBvXvanbEufS94FNh1w5FJcAj6vawb"
+tags = ["wormhole-v2"]
+
+[mainnet.wbusdc]
+swapAccount = "BUSD5rCfUDpCxKGMvYU2yThChxgHoioK74PTPociGnv2"
+tags = ["wormhole-v2"]
+
+[mainnet.wbusdt]
+swapAccount = "BUSDTd9WiT6uBHJRgNvFXBsA7JrifsAtWzKfioN7ERcy"
+tags = ["wormhole-v2"]
+
+[mainnet.wusdk]
+swapAccount = "oKQqupM9E7SSLAFDLxr7mdsXP7znck9qRbVWc6Yyj7Q"
+tags = ["wormhole-v2"]
+
+[mainnet.whbtc]
+swapAccount = "BTCkjETHaKDoRJtD2PKwzhseFnwPVsxGFu6BD8h5Riwq"
+tags = ["wormhole-v2"]
+
+[mainnet.whusd]
+swapAccount = "HuonfMR5ivyhX5BZBw2Lr3XuNPSTVrSmZMWgBZrMQJU2"
+tags = ["wormhole-v2"]
+
+[mainnet.wibbtc]
+swapAccount = "BDGpYPUKFyHzHTnbK21v66tACEVHSmRXf4LWnMqYmfEN"
+tags = ["wormhole-v2"]
+
+[mainnet.wdai]
+swapAccount = "RajgMbScQbqqrdJfR2rxfHJiTiY5b6bJ2tTXiF4aPxy"
+tags = ["wormhole-v2"]
+
+[mainnet.wfrax]
+swapAccount = "KZMu9QBEdL97EFgamLbN5DE1AoKBG4HdrKKJo4Vuon3"
+tags = ["wormhole-v2"]
+
+[mainnet.wheth]
+swapAccount = "wrmcMSHFi3sWpAEy4rGDvQb3ezh3PhXoV2xNjgLBkKU"
+tags = ["wormhole-v2"]
+
+[mainnet.wftt]
+swapAccount = "TSMUBiuZXEpnqd6X21JRskACqA6oad7MsYddvLbxwDH"
+tags = ["wormhole-v2"]
+
+[mainnet.sollet_ftt]
+swapAccount = "SAMGk1Nd4haC8zQA63DG37pzuEZy8j4q13tSFtCbcRE"
+tags = ["wormhole-v2"]
+
+[mainnet.wust]
+swapAccount = "KwnjUuZhTMTSGAaavkLEmSyfobY16JNH4poL9oeeEvE"
+tags = ["wormhole-v2"]
+
+[mainnet.wsrm]
+swapAccount = "SRMuKizofcAMicegrfSv7xs9q76tH1w8aAF7oX9FEWu"
+tags = ["wormhole-v2"]
+
+[mainnet.wluna]
+swapAccount = "Joji2GxwqNyoXMUqi4z3P4KSSpx31nwcrxxtMSN6aey"
+tags = ["wormhole-v2"]
+
+[mainnet.frax_ust]
+swapAccount = "SAMyS8Jr2HJrkFwYVKbpUwsNStnQmvz3f8Tup8bWUWF"
+tags = ["wormhole-v2"]
+
+[mainnet.acusd]
+swapAccount = "moFiBS1R4Lf3E3zzmBPnw3NF4RhWPkhREFviuzUaCAU"
+tags = ["allbridge"]
+
+[mainnet.acusdc]
+swapAccount = "ACUSESXyNnwRLAg1dpSGMLSzUDdLjUMybY8rkXiAKhCP"
+newPoolID = "acusd_cash"
+tags = ["allbridge"]
+
+[mainnet.acusdc.deprecationInfo]
+newPoolID = "acusd_cash"
+message = "The Celo Optics V1 bridge has been deprecated. Please migrate your assets over to Optics V2."
+link = "https://medium.com/@mobiusmoney/migrating-to-the-optics-v2-bridge-5f098634d3e2"
+
+[mainnet.apusdt]
+swapAccount = "ALBpShJ9NLpE739pcHDF2LNVk5J4VYPvvKuV6jMPitZi"
+tags = ["allbridge"]
+
+[mainnet.apusdc]
+swapAccount = "AUSejoEUCh2DBs9mof6BNC8Pubs22w4cJa1ccV9h44R"
+tags = ["allbridge"]
+
+[mainnet.abbusd]
+swapAccount = "BSCNHw8CmxbZ8hCWWzMf5FaG2ajPT6JxfznKUNuRVrn4"
+tags = ["allbridge"]
+
+[mainnet.aeeth]
+swapAccount = "ALLwa5WNZbvQsRKAqe1jdRGemdYQnW8E5k4msbRFcYtu"
+tags = ["allbridge"]
+
+[mainnet.aeusdc]
+swapAccount = "WiiQFxXqp8P9Fs1rt9SVcDyA3KUdJmUsog6wnVQAwba"
+tags = ["allbridge"]
+
+[mainnet.aeusdt]
+swapAccount = "TETFuZgEmET6d9vYmz9iMFCxK1jKdKYxf3oPz8hSzJK"
+tags = ["allbridge"]
+
+[mainnet.aedai]
+swapAccount = "DA1mL7dfBow33EH5yjUuZE6SH2KeUK5zEXzsyhE5r5j5"
+tags = ["allbridge"]
+
+[mainnet.aausdc]
+swapAccount = "KEVpg4SYCVrqFxKijQH6hm4QxsRdoE51ud64bEEFUC9"
+tags = ["allbridge"]
+
+[mainnet.aausdt]
+swapAccount = "SEQV6QiTpvTzrceiaYg9Avnwf7oc8ZALpnQMz6TyT4A"
+tags = ["allbridge"]
+
+[mainnet.aadai]
+swapAccount = "SQDY9uoDoCbNq7F3HAHYYQZbrUzpKxDtdWLvYcqBLak"
+tags = ["allbridge"]
+
+[mainnet.aawbtc]
+swapAccount = "SATqdxinH3vFiJBKv3JA6MuCXweEXr6UV1aRcvGjLD5"
+tags = ["allbridge"]
+
+[mainnet.ahusdt]
+swapAccount = "AUS3TCHxzec2Sf1jUhvmTGWo3oLXW1zxrDPYBBvjKtEq"
+tags = ["allbridge"]
+
+[mainnet.ahwbtc]
+swapAccount = "HBTCrEkrCftRrXHZgSHQxRJTxG7TZ1DkC3Lq6UZiVg8E"
+tags = ["allbridge"]
+
+[mainnet.abusdc]
+swapAccount = "BSC8REUo9LpiiWUuqMuLXs2D2yJsJfGd4HdiF3wCLxk5"
+tags = ["allbridge"]
+
+[mainnet.abusdt]
+swapAccount = "BSCuChvaSj9b5HUSqgDVRzcnr2sSn7cXaamt1jbKH6hn"
+tags = ["allbridge"]
+
+[mainnet.abbtcb]
+swapAccount = "BSCc2UgHMGZcr4gdTBZcDvf7HcjVdfBDrW7gMnaqSDkx"
+tags = ["allbridge"]
+
+[mainnet.abeth]
+swapAccount = "BSCrK1Nx9PXU9mF7STWWBqeHLxmtJDr9h7jheEy4tAWX"
+tags = ["allbridge"]
+
+[mainnet.afbtc]
+swapAccount = "FTMBUCDa3UxVmLQwssSj2MWYUrQiyGHXqu2ZqQbaDJqk"
+tags = ["allbridge"]
+
+[mainnet.afeth]
+swapAccount = "FTM4CxWEZg5CxSieP5dS8gfSvfKt7kRAtn6m7BAjNUN3"
+tags = ["allbridge"]
+
+[mainnet.afusdc]
+swapAccount = "FTMDfFPjYWvSsDXMGR8Mdt4fLjDtSDwfz7GAqe5V6qwq"
+tags = ["allbridge"]
+
+[mainnet.afdai]
+swapAccount = "FTMFgXfkDwZ6gvuyjsNnDZnf9pU31uRGeQe38QvvHtPh"
+tags = ["allbridge"]
+
+[mainnet.mai]
+swapAccount = "DFWzVTzNBrQZLjoQ4yQwkj9HuoXmfkuZP9V5vbymZe23"
+tags = ["allbridge"]
+
+[mainnet.fei_cash]
+swapAccount = "FEiWZLDDFthHtFHhavYwdmF8RThgTNt8vzBqAwV4hTar"
+tags = ["allbridge"]
+
+[mainnet.fei_ust]
+swapAccount = "FEiKCCNftXbfmTfSaoVV2baXAnfTQRP8RrkUMEnxrYnK"
+tags = ["allbridge"]
+
+[mainnet.mim_cash]
+swapAccount = "MiMx8GQKM5CaDTCKcuK9VeTdrpEvPKR4ScyhSe4kYv1"
+tags = ["allbridge"]
+
+[mainnet.mim_ust]
+swapAccount = "MiMuMS9C4vBqcrYeeQPph1E7oAW9aNKvW9k6Zw9XffM"
+tags = ["allbridge"]
+
+[mainnet.solend_usdc_usdt]
+swapAccount = "RooZXUCc5RK1onxyVxB5G8CtGES3ptNgVnZLXMe2cws"
+tags = ["solend"]
+
+[mainnet.solend_sol_msol]
+swapAccount = "Roockn5vpbWxKybZqMy3xaYuSaq1Lhoc7CL3C6bAUXX"
+tags = ["solend"]
+
+[mainnet.jsol]
+swapAccount = "JSoLLrxK5bYdHwTEWYaGgmeycBCNXKDiBCTw5hXGBg7"
+
+[mainnet.msol_jsol]
+swapAccount = "SoNcU2iwHMw6dGzsYNQkYFkUjwN1UdAjrWVRnStrZu2"
+
+[mainnet.scn_jsol]
+swapAccount = "SoN9GaFpSXfpyR5dth3x7PHPVhvJMpQqqDJfCSmPv1t"
+
+[mainnet.msol_sol]
+swapAccount = "Lee1XZJfJ9Hm2K1qTyeCz1LXNc1YBZaKZszvNY4KCDw"
+
+[mainnet.scn_msol]
+swapAccount = "Dg3mAgpwDfVNnbGWcsxL8sUcSkEbjSJQhKAWNigG44Ju"
+
+[mainnet.stsol_msol]
+swapAccount = "7dwD9TF6uikvHXxPFK9AsSim54yJoujQjY9vU6gNFumk"
+
+[mainnet.atust_wust]
+swapAccount = "DouVMTbFTjafGAvXjUUZ2hZZbcGFsYXhH5x7GejyQmjT"
+tags = ["allbridge", "wormhole-v2"]
+
+[mainnet.aceur_ageur]
+swapAccount = "FREDEGdjoEe5DiyVnEvSyDAX4h7LWTg7ZkSMaZiWskbp"
+tags = ["allbridge", "wormhole-v2"]
+
+[mainnet.port_2pool]
+swapAccount = "LeonQMdt2TUm3PL358Ny1fa7XEFwMrL4VWheT5PNCVW"
+tags = ["port"]
+
+[mainnet.solust_usdh]
+swapAccount = "RoBgmK8CvjdHvPrqdDyVw54VwjZv2TqJ493xnqJAQHx"
+
+[mainnet.asol]
+swapAccount = "AURHmCnNwiW4uA2Qj1XvEh4iKgRUZYXtiY7FKAapUV5Y"
+
+[mainnet.psol]
+swapAccount = "parEAJhzYzHW87y9VoZAQ22dzQ2MD2ekEtTReaxbMcz"
+
+[mainnet.prtsol]
+swapAccount = "heyk4SZTeCUV6a65WiVA5bzic3KcxgVf1qxobfeV4tQ"
+
+[mainnet.stsol]
+swapAccount = "Lid8SLUxQ9RmF7XMqUA8c24RitTwzja8VSKngJxRcUa"
+
+[mainnet.socean]
+swapAccount = "FrnkTEL6yZ5Aycq2TrEgu29dCrwKG4LPUZydfiwqspkc"
+
+[mainnet.everstake_sol]
+swapAccount = "SERgf3DMJpQxUifu7VoFKmfne73d2fDJxSrxUMrcNJB"
+
+[mainnet.calusd]
+swapAccount = "BerKDkt6v49dT1bHRedgnpsJS263C1DSJtEGvY9Mg35V"

@@ -1,0 +1,26 @@
+[devnet.usdc_usdt]
+swapAccount = "VeNkoB1HvSP6bSeGybQDnx9wTWFsQb2NBCemeCDSuKL"
+lpToken = "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57"
+tokenA = "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
+tokenB = "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+
+[devnet.usdc_test]
+swapAccount = "AqBGfWy3D9NpW8LuknrSSuv93tJUBiPWYxkBrettkG7x"
+
+[devnet.usdc_pai]
+swapAccount = "DoycojcYVwc42yCpGb4CvkbuKJkQ6KBTugLdJXv3U8ZE"
+lpToken = "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J"
+tokenA = "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
+tokenB = "4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL"
+
+[devnet.btc]
+swapAccount = "AQsYrKkFLuv9Jw7kCcPH7SkeMQ2aZkP1KcBs4RYegHbv"
+lpToken = "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm"
+tokenA = "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ"
+tokenB = "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs"
+
+[devnet.usdt_cash]
+swapAccount = "TEJVTFTsqFEuoNNGu864ED4MJuZr8weByrsYYpZGCfQ"
+
+[devnet.usdc_cash]
+swapAccount = "B94iYzzWe7Q3ksvRnt5yJm6G5YquerRFKpsUVUvasdmA"
