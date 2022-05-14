@@ -3,7 +3,7 @@
 set -xe
 
 rm -fr out/
-mkdir out/
+cp -R public/ out/
 cat config/Sources.toml | yj -t >out/sources.json
 
 cat config/assets/*.toml | yj -t >out/assets.json
