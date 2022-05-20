@@ -427,3 +427,6 @@ swapAccount = "DEDaBEWzMCXohXYXoLzB4jK1xqMsd3SS9izXp2xvg9pe"
 
 [mainnet.ush]
 swapAccount = "HEDSDjj84KS7LKhZY7ejkCACTdPen62rKhCby1wXtgxc"
+
+[mainnet.usn]
+swapAccount = "iLiUBQ7Z7im6Ew3b4ewwPcehzWgEQRJ1iQz7g6D62NW"

@@ -508,3 +508,8 @@ coingeckoId = "usd-coin" # TODO: update when on coingecko
 market = "USD"
 source = "hedge"
 coingeckoId = "usd-coin" # TODO: update when on coingecko
+
+[mainnet.PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY]
+market = "USD"
+source = "near"
+coingeckoId = "usd-coin" # TODO: update when on coingecko
