@@ -424,3 +424,6 @@ swapAccount = "SUiuyGR7SFq3xeRVJonq84fjjeFwRSsFekcevJ53tzy"
 
 [mainnet.fabric_usd]
 swapAccount = "DEDaBEWzMCXohXYXoLzB4jK1xqMsd3SS9izXp2xvg9pe"
+
+[mainnet.ush]
+swapAccount = "HEDSDjj84KS7LKhZY7ejkCACTdPen62rKhCby1wXtgxc"

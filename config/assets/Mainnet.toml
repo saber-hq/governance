@@ -503,3 +503,8 @@ coingeckoId = "nirvana-nirv"
 market = "USD"
 source = "fabric"
 coingeckoId = "usd-coin" # TODO: update when on coingecko
+
+[mainnet.9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6]
+market = "USD"
+source = "hedge"
+coingeckoId = "usd-coin" # TODO: update when on coingecko
