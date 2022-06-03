@@ -513,3 +513,8 @@ coingeckoId = "usd-coin" # TODO: update when on coingecko
 market = "USD"
 source = "near"
 coingeckoId = "usd-coin" # TODO: update when on coingecko
+
+[mainnet.bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1]
+market = "SOL"
+source = "blazestake"
+coingeckoId = "solana"
