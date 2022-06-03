@@ -430,3 +430,6 @@ swapAccount = "HEDSDjj84KS7LKhZY7ejkCACTdPen62rKhCby1wXtgxc"
 
 [mainnet.usn]
 swapAccount = "iLiUBQ7Z7im6Ew3b4ewwPcehzWgEQRJ1iQz7g6D62NW"
+
+[mainnet.blazesol]
+swapAccount = "STK75uPSyBnEhGTTzb1nwmP3n427XoXmfRhXxxhyady"
