@@ -8,16 +8,16 @@
       let
         pkgs = import nixpkgs { inherit system; };
       in
-      {
-        defaultPackage = with pkgs; buildEnv {
-          name = "saber-governance";
-          paths = [
+      rec {
+        defaultPackage = with pkgs; mkShell {
+          buildInputs = [
             coreutils
             bash
             yj
             python39Packages.jsonschema
           ];
         };
+        devShell = defaultPackage;
       }
     );
 
