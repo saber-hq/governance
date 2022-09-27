@@ -11,4 +11,4 @@ cat config/pools/*.toml | yj -t >out/pools.json
 
 jsonschema schema/sources.schema.json -i ./out/sources.json
 
-tree -H ./out -T "Saber Governance Registry" -L 1 --noreport --charset utf-8 -o ./out/index.html
+cd out && tree -H '.' -T "Saber Governance Registry" -L 1 --noreport --charset utf-8 -o index.html
