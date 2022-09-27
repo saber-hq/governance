@@ -13,6 +13,7 @@
           buildInputs = [
             coreutils
             bash
+            tree
             yj
             python39Packages.jsonschema
           ];
