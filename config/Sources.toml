@@ -55,3 +55,11 @@ website = "https://coin98.com/dollar"
 description = "CUSD is designed to be the bloodline of the Coin98 Ecosystem, bringing a seamless unified cross-chain liquidity flow to the existing/upcoming infrastructures."
 risksURL = "https://blog.coin98.com/introducing-cusd/"
 iconURL = "https://coin98.com/static/media/cusdBall.12b6d308.svg"
+
+[hooke]
+auditors = []
+name = "Hooke"
+website = "https://hooke.org"
+description = "Hooke is a protocol that provides uncensorable contents on the internet"
+risksURL = "https://hooke.org"
+iconURL = "https://raw.githubusercontent.com/susankgg/hooke-img/main/libertee-big.png"
