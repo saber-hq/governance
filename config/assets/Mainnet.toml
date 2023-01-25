@@ -523,3 +523,8 @@ coingeckoId = "solana"
 market = "USD"
 source = "coin98"
 coingeckoId = "coin98-dollar"
+
+[mainnet.So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA]
+market = "SOL"
+source = "lpfinance"
+coingeckoId = "solana"
