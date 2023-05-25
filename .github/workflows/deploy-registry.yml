@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: cachix/install-nix-action@v19
+      - uses: cachix/install-nix-action@v21
       - run: nix develop --command bash ./build.sh
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
