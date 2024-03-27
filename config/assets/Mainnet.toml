@@ -459,6 +459,10 @@ market = "EUR"
 source = "wormhole-v2"
 coingeckoId = "ageur"
 
+[mainnet.2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg]
+market = "EUR"
+coingeckoId = "euroe-stablecoin"
+
 [mainnet.3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ]
 market = "USD"
 source = "port"

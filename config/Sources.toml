@@ -72,6 +72,14 @@ description = "MDS (Midas) is a stablecoin backed by NFTs."
 risksURL = "https://docs.hadeswap.com/midas/mds-smart-contract-step-by-step-how-to"
 iconURL = "https://arweave.net/DcmraYTxxarO5sZ1fIKdPIo1f76lRMZB_-q7y1d3Qqw"
 
+[euroe]
+auditors = []
+name = "EUROe"
+website = "https://euroe.com/"
+description = "EUROe is a full-backed euro stablecoin."
+risksURL = "https://www.euroe.com/due-diligence-resources"
+iconURL = "https://dev.euroe.com/persistent/token-icon/png/256x256.png"
+
 [vault]
 auditors = []
 name = "The Vault"
