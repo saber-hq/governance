@@ -461,6 +461,7 @@ coingeckoId = "ageur"
 
 [mainnet.2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg]
 market = "EUR"
+source = "euroe"
 coingeckoId = "euroe-stablecoin"
 
 [mainnet.3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ]
