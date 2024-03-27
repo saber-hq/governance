@@ -533,3 +533,8 @@ coingeckoId = "solana"
 market = "USD"
 source = "midas"
 coingeckoId = "midas-token"
+
+[mainnet.vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7]
+market = "SOL"
+source = "vault"
+coingeckoId = "solana" # TODO: update when on coingecko

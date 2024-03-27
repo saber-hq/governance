@@ -71,3 +71,11 @@ website = "https://mds.hadeswap.com/"
 description = "MDS (Midas) is a stablecoin backed by NFTs."
 risksURL = "https://docs.hadeswap.com/midas/mds-smart-contract-step-by-step-how-to"
 iconURL = "https://arweave.net/DcmraYTxxarO5sZ1fIKdPIo1f76lRMZB_-q7y1d3Qqw"
+
+[vault]
+auditors = []
+name = "The Vault"
+website = "https://thevault.finance"
+description = "The Vault is a Solana stake pool focused on supporting validators that are committed to decentralization and the long-term success of the Solana network."
+risksURL = "https://thevault.finance/"
+iconURL = "https://thevault.finance/"
