@@ -79,3 +79,11 @@ website = "https://euroe.com/"
 description = "EUROe is a full-backed euro stablecoin."
 risksURL = "https://www.euroe.com/due-diligence-resources"
 iconURL = "https://dev.euroe.com/persistent/token-icon/png/256x256.png"
+
+[vault]
+auditors = []
+name = "The Vault"
+website = "https://thevault.finance"
+description = "The Vault is a Solana stake pool focused on supporting validators that are committed to decentralization and the long-term success of the Solana network."
+risksURL = "https://thevault.finance/"
+iconURL = "https://thevault.finance/"

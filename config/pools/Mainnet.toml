@@ -445,3 +445,6 @@ swapAccount = "ercAoEmXjQzEvAFbdjAo81KtMxRGn9AW1ju882upmPH"
 
 [mainnet.mds]
 swapAccount = "HDSBGqAuMRr6X2AfmmbXQPpRgU6VEhtfNVVZ3wUTZXg"
+
+[mainnet.vsol]
+swapAccount = "C2ypsDADXcCRz8HbV2zX1AXPSja7a1P3xZtRC91xGhJh"
