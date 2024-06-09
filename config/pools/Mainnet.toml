@@ -448,3 +448,6 @@ swapAccount = "HDSBGqAuMRr6X2AfmmbXQPpRgU6VEhtfNVVZ3wUTZXg"
 
 [mainnet.vsol]
 swapAccount = "C2ypsDADXcCRz8HbV2zX1AXPSja7a1P3xZtRC91xGhJh"
+
+[mainnet.euroe_eurc]
+swapAccount = "BJo5DwH4YWExpZ1Zu1FdZaM6jcqHwXSR5DkHBEwb3AbM"

@@ -87,3 +87,11 @@ website = "https://thevault.finance"
 description = "The Vault is a Solana stake pool focused on supporting validators that are committed to decentralization and the long-term success of the Solana network."
 risksURL = "https://thevault.finance/"
 iconURL = "https://thevault.finance/"
+
+[eurc]
+auditors = []
+name = "EURC"
+website = "https://www.circle.com/en/eurc/"
+description = "EURC is a full-backed euro stablecoin by Circle."
+risksURL = "https://www.circle.com/en/transparency"
+iconURL = "https://www.circle.com/hubfs/Brand/EURC/EURC-icon_128x128.png"
