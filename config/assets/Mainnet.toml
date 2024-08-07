@@ -548,3 +548,38 @@ coingeckoId = "solana" # TODO: update when on coingecko
 market = "EUR"
 source = "eurc"
 coingeckoId = "eurc"
+
+[mainnet.jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v]
+market = "SOL"
+source = "jupsol"
+coingeckoId = "jupiter-staked-sol"
+
+[mainnet.picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX]
+market = "SOL"
+source = "picosol"
+coingeckoId = "pico-staked-sol"
+
+[mainnet.LnTRntk2kTfWEY6cVB8K9649pgJbt6dJLS1Ns1GZCWg]
+market = "SOL"
+source = "lanternsol"
+coingeckoId = "lantern-staked-sol"
+
+[mainnet.HUBsveNpjo5pWqNkH57QzxjQASdTVXcSK7bVKTSZtcSX]
+market = "SOL"
+source = "hubsol"
+coingeckoId = "solanahub-staked-sol"
+
+[mainnet.CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE]
+market = "SOL"
+source = "cogentsol"
+coingeckoId = "cogent-sol"
+
+[mainnet.J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn]
+market = "SOL"
+source = "jitosol"
+coingeckoId = "jito-staked-sol"
+
+[mainnet.BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs]
+market = "SOL"
+source = "bonksol"
+coingeckoId = "bonk-staked-sol"

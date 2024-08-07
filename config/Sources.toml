@@ -95,3 +95,59 @@ website = "https://www.circle.com/en/eurc/"
 description = "EURC is a full-backed euro stablecoin by Circle."
 risksURL = "https://www.circle.com/en/transparency"
 iconURL = "https://www.circle.com/hubfs/Brand/EURC/EURC-icon_128x128.png"
+
+[jupsol]
+auditors = []
+name = "jupSOL"
+website = "https://jup.ag"
+description = "jupSOL is a staked SOL token by Jupiter."
+risksURL = "https://station.jup.ag/guides/jupsol/jupsol"
+iconURL = "https://jup.ag/favicon.ico"
+
+[picosol]
+auditors = []
+name = "PicoSOL"
+website = "https://www.pico-sol.com/"
+description = "PicoSOL is a staked SOL token by Pico."
+risksURL = "https://www.pico-sol.com"
+iconURL = "https://www.pico-sol.com/favicon.ico"
+
+[lanternsol]
+auditors = []
+name = "LanternSOL"
+website = "https://www.lantern.one/"
+description = "LanternSOL is a staked SOL token by Lantern."
+risksURL = "https://www.lantern.one/"
+iconURL = "https://www.lantern.one/favicon.ico"
+
+[hubsol]
+auditors = []
+name = "HubSOL"
+website = "https://www.solanahub.app/"
+description = "LanternSOL is a staked SOL token by Lantern."
+risksURL = "https://www.solanahub.app/"
+iconURL = "https://www.solanahub.app/favicon.ico"
+
+[cogentsol]
+auditors = []
+name = "CogentSOL"
+website = "https://cogentcrypto.io/"
+description = "CogentSOL is a staked SOL token by Cogent."
+risksURL = "https://cogentcrypto.io/"
+iconURL = "https://cogentcrypto.io/favicon.ico"
+
+[jitosol]
+auditors = []
+name = "JitoSOL"
+website = "https://jito.network/"
+description = "JitoSOL is a staked SOL token by Jito."
+risksURL = "https://jito.network/"
+iconURL = "https://jito.network/favicon.ico"
+
+[bonksol]
+auditors = []
+name = "BonkSOL"
+website = "https://bonkcoin.com/"
+description = "BonkSOL is a staked SOL token by Bonk."
+risksURL = "https://bonkcoin.com/"
+iconURL = "https://bonkcoin.com/favicon.ico"

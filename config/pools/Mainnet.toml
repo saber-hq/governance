@@ -451,3 +451,24 @@ swapAccount = "C2ypsDADXcCRz8HbV2zX1AXPSja7a1P3xZtRC91xGhJh"
 
 [mainnet.euroe_eurc]
 swapAccount = "BJo5DwH4YWExpZ1Zu1FdZaM6jcqHwXSR5DkHBEwb3AbM"
+
+[mainnet.bonksol_jupsol]
+swapAccount = "FLMk9DsznFvjQPQ1avBVbfX1VyWknUpxFJ7T15eoFef2"
+
+[mainnet.bsol_vsol]
+swapAccount = "H5xvm23yMWMvXCXsvLD5tXtdc4y4fpu3nnRbsWUybcjH"
+
+[mainnet.cgntsol_jitosol]
+swapAccount = "FMFdmexvUSwby1Y2xiVr76mKwDQ3M3aTZ5kFCrsBc819"
+
+[mainnet.hubsol_jupsol]
+swapAccount = "8MgrW6UFJRuZMNA44286yL8hCYmsmEvSfBZ5Zv5q6rVe"
+
+[mainnet.lntrnsol_jupsol]
+swapAccount = "DjwR6TuqVQB8tWMLNwKSnSG6k5WjXUBTRHn6s1YFhVQf"
+
+[mainnet.picosol_jupsol]
+swapAccount = "4kVS9bcBy7uorCy5tBCSzJkRoHuqJfsDJ2BKCaaqif5B"
+
+[mainnet.vsol_jupsol]
+swapAccount = "2fidLKA6qoidEBGk5k53Vj5UeLB1C2269hPgvfLzT7kn"
