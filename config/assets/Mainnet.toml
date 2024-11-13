@@ -597,4 +597,4 @@ coingeckoId = "stronghold-staked-sol"
 [mainnet.SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH]
 market = "SOL"
 source = "soulsol"
-coingeckoId = ""
+coingeckoId = "solana"
