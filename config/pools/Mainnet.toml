@@ -472,3 +472,12 @@ swapAccount = "4kVS9bcBy7uorCy5tBCSzJkRoHuqJfsDJ2BKCaaqif5B"
 
 [mainnet.vsol_jupsol]
 swapAccount = "2fidLKA6qoidEBGk5k53Vj5UeLB1C2269hPgvfLzT7kn"
+
+[mainnet.soulsol_vsol]
+swapAccount = "ASj3vyqLZekfGjBgWVHhzPAgJLSB7XZYGaW6VWn6sbjr"
+
+[mainnet.strongsol_vsol]
+swapAccount = "gDizHuSV8Bk787c6pWAUHFMALwpX4hYeqEwvV75PiDd"
+
+[mainnet.wbtc_cbbtc]
+swapAccount = "DVJ9mtgcaxuoYg1EJb6DmyR3sYbBShUWvvYfP8GKyutS"

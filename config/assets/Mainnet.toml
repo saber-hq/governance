@@ -583,3 +583,18 @@ coingeckoId = "jito-staked-sol"
 market = "SOL"
 source = "bonksol"
 coingeckoId = "bonk-staked-sol"
+
+[mainnet.cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij]
+market = "BTC"
+source = "cbbtc"
+coingeckoId = "coinbase-wrapped-btc"
+
+[mainnet.strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA]
+market = "SOL"
+source = "strongsol"
+coingeckoId = "stronghold-staked-sol"
+
+[mainnet.SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH]
+market = "SOL"
+source = "soulsol"
+coingeckoId = ""

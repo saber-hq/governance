@@ -151,3 +151,27 @@ website = "https://bonkcoin.com/"
 description = "BonkSOL is a staked SOL token by Bonk."
 risksURL = "https://bonkcoin.com/"
 iconURL = "https://bonkcoin.com/favicon.ico"
+
+[soulsol]
+auditors = []
+name = "SoulSOL"
+website = "https://soulana.fans/"
+description = "Your SOUL, Your RULES."
+risksURL = "https://soulana.fans/"
+iconURL = "https://soulana.fans/assets/favicon.ico"
+
+[strongsol]
+auditors = []
+name = "StrongSOL"
+website = "https://thesixnine.one/"
+description = "StrongSOL is a staked SOL token by TheSixNoneO."
+risksURL = "https://thesixnine.one/"
+iconURL = "https://thesixnine.one/logo.svg"
+
+[cbbtc]
+auditors = []
+name = "cbBTC"
+website = "https://www.coinbase.com/cbbtc/"
+description = "cbBTC is BTC managed by Coinbase."
+risksURL = "https://www.coinbase.com/nl/cbbtc/"
+iconURL = "https://www.coinbase.com/favicon.ico"
