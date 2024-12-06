@@ -481,3 +481,6 @@ swapAccount = "gDizHuSV8Bk787c6pWAUHFMALwpX4hYeqEwvV75PiDd"
 
 [mainnet.wbtc_cbbtc]
 swapAccount = "DVJ9mtgcaxuoYg1EJb6DmyR3sYbBShUWvvYfP8GKyutS"
+
+[mainnet.pawsol_vsol]
+swapAccount = "3AckmpnD1CxNtESbVZYKFdEWLPBSJ5B2GrVwTf1UpyD5"

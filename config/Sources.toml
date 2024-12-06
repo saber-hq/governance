@@ -175,3 +175,11 @@ website = "https://www.coinbase.com/cbbtc/"
 description = "cbBTC is BTC managed by Coinbase."
 risksURL = "https://www.coinbase.com/nl/cbbtc/"
 iconURL = "https://www.coinbase.com/favicon.ico"
+
+[pawsol]
+auditors = []
+name = "PawSOL"
+website = "https://www.sandytoken.com/"
+description = "pawSOL is the LST of the PawPad launchpad."
+risksURL = "https://www.sandytoken.com/"
+iconURL = "https://sandytoken.com/logo.png"
